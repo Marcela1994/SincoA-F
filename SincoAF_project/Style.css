@@ -1,0 +1,40 @@
+﻿body {
+}
+    .titulo
+{
+    text-align:center;
+    font-family:'Times New Roman';
+    background-color: mediumblue;
+    color:whitesmoke;
+    margin:20px;
+
+}
+
+.boton_volver {
+    
+    color:black;
+    float:right;
+    margin-top:20px;
+    padding:5px
+}
+
+.boton_borrar {
+    text-align:center;
+    background-color:beige;
+    color:black
+}
+
+.tabla_articulos {
+    color:cadetblue;
+    border-color:blue;
+    font-family:'Times New Roman';
+    text-align:center
+}
+
+
+.listados {
+    border-color:darkslateblue;
+    padding: 20px;
+    font-size: medium;
+    font-family: cursive
+}
